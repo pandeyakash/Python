@@ -1,2 +1,2 @@
 # Python
-Python solved questions.
+This repository contains some basic python coding questions with solution.
