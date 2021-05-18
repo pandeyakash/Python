@@ -1,0 +1,2 @@
+# Python
+Python solved questions.
